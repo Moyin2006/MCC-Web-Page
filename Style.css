@@ -1,0 +1,146 @@
+
+/* Navigation */
+#nav{
+    background-color: black;
+    padding: 30px;
+    border-radius: 20px;
+}
+#nav strong{
+    color: red;
+    font-size: 40px;
+}
+#nav a{
+    color: rgb(218, 214, 214);
+    text-decoration: none;
+    
+}
+#nav li{
+    float: right;
+    list-style: none;
+    padding: 0px 10px 0px 10px;
+}
+/* Haeder-Banner */
+#header-banner{
+    background-image: url(images/building2.jpg);
+    background-size: cover;
+    padding: 20rem 0rem 20rem 0rem;
+}
+#header-banner h1{
+    color: black;
+    text-align: center;
+    background-colors:;
+    padding: 20px 0px 20px 0px;
+}
+#header-banner span{
+    color: red;
+}
+#header-banner2{
+
+}
+#header-banner2 h1{
+    text-align: center;
+    color: red;
+}
+#div5 h3{
+    color: black;
+    text-align: center;
+}
+/* Body */
+body{
+    background-color: gainsboro;
+}
+#body2{
+    background-color: #fff;
+}
+#div1 li{
+    text-align: center;
+    color: black;
+    background-image: url(images/);
+    background-size: cover;
+    padding: 20rem 0rem 20rem  0rem;
+    list-style: none;
+}
+#div1 li strong{
+    font-size: 30px;
+}
+#div1 li span{
+    float: right;
+}
+#str1{
+    font-size: 30px;
+    text-align: center;
+}
+#dv2{
+    text-align: center;
+    color: blue;
+}
+#row1 td{
+    padding: 60px 0px 60px 0px;
+    text-align: center;
+}
+#row2 td{
+    padding: 60px 0px 60px 0px;
+    text-align: center;
+}
+#div3 li{
+    color: black;
+    float: right;
+    list-style: none;
+}
+#div4{
+    background-image: url();
+}
+#row1 td{
+    background-size: cover;
+}
+#td1{
+    background-image: url(images/building4.jpg);
+}
+#td2{
+    background-image: url(images/building1.jpg);
+}
+#td3{
+    background-image: url(images/building5.jpg);
+}
+#td4{
+    background-image: url(images/building9.jpg);
+}
+#td5{
+    background-image: url(images/building10.jpg);
+}
+#td6{
+    background-image: url(images/building13.jpg);
+}
+#td7{
+    background-image: url(images/building8.jpg);
+}
+#td8{
+    background-image: url(images/building12.jpg);
+}
+#td9 h2{
+    color: red;
+}
+#td10 h2{
+    color: red;
+}
+#td11 h2{
+    color: red;
+}
+#div4{
+    text-align: center;
+    color: red;
+}
+#div5{
+    text-align: right;
+    color: blue;
+}
+#h2{
+    color: black;
+    text-align: center;
+}
+#short{
+    width: 60%;
+}
+#long{
+    width: 60%;
+}
